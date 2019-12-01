@@ -91,7 +91,7 @@
     
       <property>
         <name>yarn.nodemanager.resource.cpu-vcores</name>
-        <value>4</value>
+        <value>3</value>
         <description>
             實際 CPU 數值，請看 htop 
         </description>
@@ -99,7 +99,7 @@
     
       <property>
         <name>yarn.scheduler.maximum-allocation-vcores</name>
-        <value>4</value>
+        <value>3</value>
         <description>
             實際 CPU 數值，請看 htop 
         </description>
